@@ -1,6 +1,11 @@
 # 🚀 GitHub Repositories Explorer
 
-GitHub Repositories Explorer is a responsive web application that allows users to **search and view GitHub repositories** by username or keyword. It’s optimized for both desktop and mobile devices and includes features like:
+GitHub Repositories Explorer is a web app that lets users search and view GitHub repositories by username or keyword.  
+It's responsive and works well on both desktop and mobile devices.
+
+🔗 **Live Demo:** [https://react-github-user-iota.vercel.app](https://react-github-user-iota.vercel.app)
+
+## Features
 
 - 🔍 Search by GitHub username
 - 📦 View user repositories
