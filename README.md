@@ -80,10 +80,19 @@ src/
 ├── pages/             # Main page: GitHubExplorer.tsx
 ├── types/             # TypeScript definitions
 ├── utils/             # Custom utilities or test wrappers
-├── assets/            # Images like `error.jpg`, `not-found.avif`
+├── assets/            # Assets like `svg`
+public/                # Images like `error.jpg`, `not-found.avif`         
 ```
 
 ---
+
+## Screenshots
+
+<img width="714" alt="Screenshot 2025-06-03 at 16 47 49" src="https://github.com/user-attachments/assets/8b89e376-49a9-416d-b875-cae07314df1c" />
+
+<img width="475" alt="Screenshot 2025-06-03 at 16 49 15" src="https://github.com/user-attachments/assets/c305a216-8b97-4eb9-a068-d969f46383ce" />
+
+
 
 ## 📄 License
 
