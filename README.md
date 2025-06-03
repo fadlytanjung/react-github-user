@@ -1,13 +1,13 @@
-# 🚀 GitHub Repositories Explorer
+# 🚀 Github Repositories Explorer
 
-GitHub Repositories Explorer is a web app that lets users search and view GitHub repositories by username or keyword.  
+Github Repositories Explorer is a web app that lets users search and view Github repositories by username or keyword.  
 It's responsive and works well on both desktop and mobile devices.
 
 🔗 **Live Demo:** [https://react-github-user-iota.vercel.app](https://react-github-user-iota.vercel.app)
 
 ## Features
 
-- 🔍 Search by GitHub username
+- 🔍 Search by Github username
 - 📦 View user repositories
 - 🌗 Responsive design (cards or accordion layout)
 - 🔁 Infinite scroll on mobile (accordion)
@@ -41,7 +41,7 @@ npm install
 
 ### 3. Setup Environment Variables
 
-Create a `.env` file in the root directory and add your GitHub token:
+Create a `.env` file in the root directory and add your Github token:
 
 ```env
 VITE_GITHUB_TOKEN=your_github_token_here

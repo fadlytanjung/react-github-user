@@ -11,8 +11,8 @@ export default function SearchBar({ loading }: { loading?: boolean }) {
 
   return (
     <form onSubmit={handleSubmit(onSubmit)}>
-      <Title mb={12}>GitHub repositories explorer 🚀</Title>
-      <Text>GitHub Repositories Explorer is a web app that lets users search and view GitHub repositories by username or keyword. It's responsive and works well on both desktop and mobile devices.</Text>
+      <Title mb={12}>Github repositories explorer 🚀</Title>
+      <Text>Github Repositories Explorer is a web app that lets users search and view Github repositories by username or keyword. It's responsive and works well on both desktop and mobile devices.</Text>
       <InputLabel mt={24}>Username</InputLabel>
       <Flex direction={{ base: "column", sm: "row" }} align="start" justify="center" gap={16}>
         <Controller
